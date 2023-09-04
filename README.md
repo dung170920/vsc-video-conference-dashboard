@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 ## Design
 
-![Video Conference Dashboard](https://github.com/dung170920/vsc-video-conference-dashboard/blob/main/src/assets/preview.jpg)
+![Video Conference Dashboard](https://github.com/dung170920/vsc-video-conference-dashboard/blob/main/src/assets/preview.png)
